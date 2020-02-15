@@ -1,4 +1,4 @@
 # MNIST
 
-#Training LeNet5 on MNIST with SGD
-#Training LeNet5 on MNIST with Adam
+Training LeNet5 on MNIST with SGD and Adam
+
